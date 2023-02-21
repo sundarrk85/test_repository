@@ -6,4 +6,7 @@
 
 5) Add names of 10 people and their fav food (with repetition) in a dictionary. Display a sorted list of fav food in the decreasing order of likes (Most liked food first)
 
+6) Write a function to list N prime numbers.
+7) function to sort list of values.
+8) func to multiply 2 matrices
 '''
