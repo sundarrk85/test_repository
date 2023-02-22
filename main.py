@@ -23,9 +23,10 @@ Rules for specifying variables
 
 valid - first_Name, name_123, _name
 invalid - name#, name$%^, 1name, reserved words
+
 '''
 
-
-
-
-
+import calendar
+month = 2
+year = 2023
+print(calendar.calendar(year))
